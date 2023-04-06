@@ -1,0 +1,24 @@
+.headword[data-pronunciation-categories="heiban"] .headword-term,
+.headword[data-pronunciation-categories="heiban"] .headword-kanji-link {
+	color: var(--HEIBAN);
+}
+
+.headword[data-pronunciation-categories="kifuku"] .headword-term,
+.headword[data-pronunciation-categories="kifuku"] .headword-kanji-link {
+	color: var(--KIFUKU);
+}
+
+.headword[data-pronunciation-categories="atamadaka"] .headword-term,
+.headword[data-pronunciation-categories="atamadaka"] .headword-kanji-link {
+	color: var(--ATAMADAKA);
+}
+
+.headword[data-pronunciation-categories="nakadaka"] .headword-term,
+.headword[data-pronunciation-categories="nakadaka"] .headword-kanji-link {
+	color: var(--NAKADAKA);
+}
+
+.headword[data-pronunciation-categories="odaka"] .headword-term,
+.headword[data-pronunciation-categories="odaka"] .headword-kanji-link {
+	color: var(--ODAKA);
+}
